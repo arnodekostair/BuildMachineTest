@@ -2,7 +2,7 @@
 using UnityEditor;
 using System.IO;
 
-[InitializeOnLoad]
+//[InitializeOnLoad]
 public class FileBrowserConfigurator
 {
     private static bool mHasAtLeastOneLibraryBeenModified = false;
